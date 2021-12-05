@@ -1,0 +1,1 @@
+enquantoPar lista = takeWhile (even) lista

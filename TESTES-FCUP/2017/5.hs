@@ -1,0 +1,1 @@
+nat_zip string = zip [1,2..length(string)] string
